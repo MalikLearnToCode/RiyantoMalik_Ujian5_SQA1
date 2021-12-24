@@ -15,9 +15,9 @@ public class MainApp {
 		
 		TestElement testElement =  new TestElement();
 		testElement.signIn();
-		testElement.regisEmail("cobacoba@gmail.com");
+		testElement.regisEmail("cobacoba1@gmail.com");
 		testElement.fillForm ("Subino" , "Suboni" , "kalangkabut" , "2" , "May" , "1982" ,"Bani" , "balala" , "Pabrik apa aja ada" , "jl. lurus tegak perkasa, RT :Sumono/RW:Sumana",
-							"jl.Perjuangan mendapatkan dia RT:11/RW:12 jadi ngga jauh beda" , "Bikini Bottom" , "Hawaii" , "696969" , "United States" , "kalau kesana hati2" ,
+							"jl.Perjuangan mendapatkan dia RT:11/RW:12 jadi ngga jauh beda" , "Bikini Bottom" , "Hawaii" , "17145" , "United States" , "kalau kesana hati2" ,
 							"7529905" , "9957230452" , "Keluarga Cemana Cemini");
 		
 		
